@@ -1,0 +1,2 @@
+SELECT * FROM Employees WHERE BirthDate BETWEEN "1960-0-1" AND "1970-0-1";
+SELECT * FROM Employees WHERE 0 OR 1
